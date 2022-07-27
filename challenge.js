@@ -26,8 +26,8 @@ const organizeData = (inputData) => {
   return output;
 };
 
-//if(!output[elem.type]){
-
-// }else{
-
-// } this is similar to the ternary on line 24
+// if(!output[elem.type]){
+//   output[elm.type] = [elem.data]
+// } else {
+//   output[elm.type].push(elm.data)
+// }this is similar to the ternary on line 24

@@ -11,7 +11,8 @@ const myFancyObj = {
 2. assiging new properties
     * define property and value
     * object initializer/obj literal
-    
+    * object.fromEntries()
+    * remove properties
 3. object notation/ accessing objects
     * dot syntax
     * []
@@ -22,9 +23,9 @@ const myFancyObj = {
     * for... in
     * js built in methods ie.( Object.entries() Object.keys(), Object.values())
 5. logic/conditionals with objects
-    * do i even exists (use truthy or falsey  values)
+    * do i even exist (use truthy or falsey  values)
     * ways to check with iteration
-    * Obect.hasOwn() (there is a caveat to hasOwn)
+    * Object.hasOwn() (there is a caveat to hasOwn) intended replacment for hasOwnProperty() to fix issues
 6. Arrays of Objects
     * now what?
     * format some data?
