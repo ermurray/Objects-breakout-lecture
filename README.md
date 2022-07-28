@@ -33,5 +33,5 @@ const myFancyObj = {
 
 6. questions
     * do some examples
-    * 
+    * access a value from object
  
